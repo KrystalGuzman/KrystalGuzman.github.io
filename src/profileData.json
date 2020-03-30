@@ -1,0 +1,123 @@
+{
+	"landing": {
+		"firstName": "Krystal",
+		"lastName": "Guzman",
+        "header": "A PROFESSIONAL WEB DEVELOPER WITH EXPERIENCE ACROSS MULTIPLE CREATIVE PLATFORMS.",
+		"bio1": "My name is Krystal Guzman, and I am a full stack web developer. I create websites and apps that are both compelling and user-friendly. Through my intensive training at Lambda School, I mastered engineering dynamic user interfaces that are both efficient and intuitive.",
+        "bio2": "In the past, I have worked with children with special needs, and I have a strong desire to build websites and apps that are accessible to all people. I am eager to work with open-minded and motivated individuals that are ready to produce innovative results.",
+        "email": "kryguzman@gmail.com",
+        "linkedin": "https://linkedin.com/in/krystal-guzman",
+		"github": "https://github.com/KrystalGuzman"
+	},
+	"projects": [
+        {
+				"title": "Anywhere Fitness 1 – helps manage fitness class schedules",
+				"link": "https://github.com/Build-Week-Anywhere-Fitness-1/Front-End",
+				"image": "/images/AnywhereFitness.png",
+				"point1": "• Designed and implemented entire front end using Redux",
+				"point2": "• Pair programmed with back end to manage endpoints of API"
+		},
+		{
+				"title": "So Random Generator – gives random categorical information",
+				"link": "https://github.com/KrystalGuzman/Redux-App",
+				"image": "/images/SoRandomGenerator.png",
+				"point1": "• Investigated issues with Redux and Material-UI drawer in React App",
+				"point2": "• Utilized router to link to different pages that used APIs"
+		},
+		{
+				"title": "DVST3 – provides financial cost for leaving a violent situation",
+				"link": "https://github.com/DVST3/dvst3-front-end",
+				"image": "/images/DVST3.png",
+				"point1": "• Worked as React 1 during a build week project",
+				"point2": "• Incorporated Router, Formik, and Axios to the front end"
+		},
+		{
+				"title": "Refugee Stories 2 – brings awareness to the refugee problem",
+				"link": "https://github.com/bw-refugee-stories2/UI",
+				"image": "/images/RefugeeStories.png",
+				"point1": "• Developed marketing page as UI Designer, along with colleague",
+				"point2": "• Used Flexbox for GitHub cards and descriptions using HTML and LESS"
+		}
+	],
+	"education": [{
+			"program": "Full Stack Web Development and Computer Science",
+			"school": "Lambda School, Remote",
+            "graduation": "Expected Finish Date: 9/2020"
+		},
+        {
+			"program": "Bachelor of Arts, Sociology - International Studies Concentration",
+			"school": "University of California San Diego, La Jolla, California",
+            "graduation": "Graduation Date: 12/2012"
+		},
+        {
+			"program": "Associate in Arts, Mathematics",
+			"school": "Palomar College, San Marcos, California",
+		    "graduation": "Graduation Date: 5/2012"
+        },
+        {
+			"program": "Associate in Arts, Liberal Arts and Sciences",
+			"school": "Palomar College, San Marcos, California",
+            "graduation": "Graduation Date: 12/2008"
+        }
+	],
+	"skills": [{
+			"name": "HTML5"
+		},
+		{
+			"name": "CSS3"
+		},
+		{
+			"name": "Javascript"
+		},
+		{
+			"name": "React"
+		},
+		{
+			"name": "Node.js"
+		},
+		{
+			"name": "AJAX"
+		},
+		{
+			"name": "SQLite"
+		},
+		{
+			"name": "Express"
+		},
+		{
+			"name": "NPM"
+		},
+		{
+			"name": "Git"
+		}
+	],
+	"work": [{
+		"company": "Behavioral Autism Therapies",
+        "position": "Office Administrator/Behavioral Support",
+        "point1": "• Strengthened operational efficiencies by analyzing limiting factors and implemented behavioral support strategies",
+        "point2": "• Interviewed potential job candidates and scheduled staff to maximize service hours",
+        "point3": "• Effectively planned projects, made decisions, and delivered results by using innovative and data-focused ways",
+        "fromDate": "12/2016",
+        "toDate": "1/2019"
+	},
+    {
+		"company": "Behavioral Autism Therapies",
+        "position": "Behavioral Therapist",
+        "point1": "• Utilized and trained others in ABA techniques to improve learning, communication, and social development",
+        "point2": "• Collected data of maladaptive behaviors, summarized behaviors using the Antecedent Behavior Consequence model, and graphed progress in targeted areas using Microsoft Excel",
+        "point3": "• Created and presented material that was implemented in the company",
+        "fromDate": "2/2015",
+        "toDate": "12/2016"
+	},
+    {
+		"company": "AG Cleaning Services",
+        "position": "Human Resources/Operations Manager",
+        "point1": "• Supported management on employee performance and employee relations issues, ensuring policies and practices were maintained.",
+        "point2": "• Established performance metrics and tracked results to optimize productivity and quality",
+        "point3": "• Partnered with key internal customers to support the achievement of business objectives",
+        "fromDate": "2/2009",
+        "toDate": "11/2014"
+	}
+    ]
+	
+}
